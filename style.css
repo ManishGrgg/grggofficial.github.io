@@ -1,10 +1,7 @@
-body {
+html body {
     font-family: Cascadia Code, monospace;
     margin: 0;
     padding: 0;
-
-}
-.background {
     background-color: #f0f0f0;
     min-height: 100vh;
     display: flex;
